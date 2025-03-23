@@ -22,7 +22,7 @@ Veriler aşağıdaki JSON kaynağından alınmaktadır:
 
 ## 🛠 Kurulum ve Kullanım
 
-###  Sayfa Uygunluğu
+### 📄 Sayfa Uygunluğu
 Kod yalnızca `https://www.e-bebek.com/` anasayfasında çalışır. Diğer sayfalarda konsola `"wrong page"` mesajı yazdırır.
 
 ### 🚀 Nasıl Çalıştırılır?
@@ -32,7 +32,7 @@ Kod yalnızca `https://www.e-bebek.com/` anasayfasında çalışır. Diğer sayf
 3. `Script.js` dosyasındaki tüm kodu konsola yapıştırın.
 4. Enter’a bas ve carouselin yüklendiğini gör!
 
-### Yapı
+### 📂 Yapı
 
 - **HTML**: JavaScript ile `you-might-like` adlı bir section içerisine oluşturulur.
 - **CSS**: `<style>` etiketi ile DOM'a enjekte edilir.
@@ -42,7 +42,7 @@ Kod yalnızca `https://www.e-bebek.com/` anasayfasında çalışır. Diğer sayf
 - **Navigasyon**: Her tıklamada bir ürün kartı kayar.
 - **Badge ve Yıldızlar**: Rastgele rozetler ve 3-5 yıldız arasında puanlama görünümü verilir.
 
-## 📂 Local Storage Anahtarları
+## 🔑 Local Storage Anahtarları
 
 | Anahtar               | Açıklama                                   |
 |----------------------|--------------------------------------------|
