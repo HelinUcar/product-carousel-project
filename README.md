@@ -29,7 +29,7 @@ Kod yalnızca `https://www.e-bebek.com/` anasayfasında çalışır. Diğer sayf
 
 1. [www.e-bebek.com](https://www.e-bebek.com) ana sayfasını aç.
 2. **Chrome Developer Tools → Console** sekmesini aç. (`F12`)
-3. `Script.js` dosyasındaki tüm kodu konsola yapıştırın.
+3. `script.js` dosyasındaki tüm kodu konsola yapıştırın.
 4. Enter’a bas ve carouselin yüklendiğini gör!
 
 ### 📂 Yapı
