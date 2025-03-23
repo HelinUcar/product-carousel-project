@@ -63,11 +63,6 @@ Kod yalnızca `https://www.e-bebek.com/` anasayfasında çalışır. Diğer sayf
 - ✔ Önbellekten veri yüklenmesi.
 - ✔ Yükleme mesajı (konsola) ve hata yakalama.
 
-## 📁 Dosya Yapısı
-
-Tek bir dosya:  
-`script.js`
-
 ## 🧑‍💻 Geliştirici Notları
 
 - Kod yapılandırılmış, modüler ve okunabilir şekilde organize edilmiştir.
